@@ -1,0 +1,3 @@
+dic = ['key1', 100, 'key2', 200]
+
+a = dic.append

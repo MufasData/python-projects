@@ -1,0 +1,1 @@
+print("Your beer will be called " + input("What's your favorite sports team? ") + ' ' + input("What's your favorite fruit? ") + '!')
